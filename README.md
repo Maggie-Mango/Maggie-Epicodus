@@ -5,10 +5,9 @@
 #### By Maggie Saldivia **{Maggie-Mango}**
 
 ## Technologies Used
-
 * HTML
 * CSS
-* HTML
+* Bootstrap
 
 
 ## Description
