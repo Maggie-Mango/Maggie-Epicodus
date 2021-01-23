@@ -1,7 +1,8 @@
 # Maggie-Epicodus
-# Index.html
 
-#### By Maggie Saldivia (Maggie-Mango)
+### A simple website highlighting my professional history and current interests
+
+#### By Maggie Saldivia **{Maggie-Mango}**
 
 ## Technologies Used
 
@@ -16,8 +17,13 @@ A simple HTML site about my coding journey and personal information with Bootstr
 
 ## Setup/Installation Requirements
 
-* No setup required
+* Clone this repository to your desktop.
+* Navigate to the top level of the directory.
+* Open Flashcards/index.html in your browser.
 
+## Link
+
+https://maggie-mango.github.io/Maggie-Epicodus/
 
 ## Known Bugs
 
@@ -25,7 +31,7 @@ A simple HTML site about my coding journey and personal information with Bootstr
 
 ## License
 
-.MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Information
 
