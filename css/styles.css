@@ -2,6 +2,10 @@ h1 {
   text-align: center;
 }
 
+h4 {
+  text-align: center;
+}
+
 .my-projects p {
   text-align: center;
 }
@@ -39,6 +43,4 @@ img {
   list-style: none;
 
 }
-
-
 
